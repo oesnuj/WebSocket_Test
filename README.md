@@ -1,5 +1,5 @@
 # WebSocket_Test
 
-### Client : 리액트 사용
+- Client : 리액트 사용
 <br>
-### Server : node.js사용
+- Server : node.js사용
